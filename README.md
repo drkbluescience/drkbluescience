@@ -1,5 +1,5 @@
 ### Hi there 👋this is Enise
-:headphones: If you want to feel high or down, peer out at [Spotify](https://open.spotify.com/playlist/1PUGXX6bOCGHDoJN7XpSbQ?si=81bbb57f68014729) quickly and closely.
+:headphones: Peer out at [Spotify](https://open.spotify.com/playlist/1PUGXX6bOCGHDoJN7XpSbQ?si=81bbb57f68014729).
 
 <!--
 **zengin-enise/zengin-enise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
