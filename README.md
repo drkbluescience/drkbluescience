@@ -1,4 +1,4 @@
-### Hi there 👋this is Enise
+### Hi there 👋
 :headphones: Peer out at [Spotify](https://open.spotify.com/playlist/1PUGXX6bOCGHDoJN7XpSbQ?si=81bbb57f68014729).
 
 <!--
